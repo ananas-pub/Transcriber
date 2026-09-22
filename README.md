@@ -83,4 +83,4 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Лицензия
 
-MIT, см. файл [LICENSE](LICENSE).
+MIT — см. [LICENSE](LICENSE).
